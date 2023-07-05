@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    color: rgb(211, 81, 21);
+    font-weight: bolder;
+    background-image: url("/home/junior/Documentos/curso/Zodiaco-JR/Zodiaco/imagens/fundo.webp");
+}
+h2 {
+    margin: 0;
+}
+#esquerda {
+    display: block;
+    width: 550px;
+    float: left;
+    padding:9px 50px;
+    color: orange;
+}
+#direita {
+    display: block;
+    width: 550px;
+    float: right;
+    padding:0 50px;   
+    color: rgb(194, 32, 32); 
+}
+#rodape {
+    color: white;
+    padding-top: 30px;
+    clear: both;
+}
