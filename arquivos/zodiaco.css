@@ -7,22 +7,23 @@ body {
 h2 {
     margin: 0;
 }
+div {    
+    color: white;
+}
 #esquerda {
     display: block;
     width: 550px;
     float: left;
     padding:9px 50px;
-    color: orange;
 }
 #direita {
     display: block;
     width: 550px;
     float: right;
-    padding:0 50px;   
-    color: rgb(194, 32, 32); 
+    padding:0 50px;
 }
 #rodape {
-    color: white;
-    padding-top: 30px;
+    padding-top: 40px;
     clear: both;
+    color: white;
 }
