@@ -7,24 +7,24 @@ body {
 h2 {
     margin: 0;
 }
-#ajuste{
+.ajuste{
     display: flex;
     justify-content: space-between;
 }
-#esquerda {
+.esquerda {
     width: 550px;
     padding:9px 20px;
 }
-#direita {
+.direita {
     width: 550px;
     padding:0 20px;
 }
-#centro {
+.centro {
     width: 160px;
     margin-top: 200px;
 }
 #rodape {
-    padding-top: 40px;
+    padding-top: 20px;
     clear: both;
     color: white;
 }
