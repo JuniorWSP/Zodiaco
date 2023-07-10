@@ -11,6 +11,9 @@ h2 {
     display: flex;
     justify-content: space-between;
 }
+.menu {
+    list-style: none;
+}
 .esquerda {
     width: 550px;
     padding:9px 20px;
