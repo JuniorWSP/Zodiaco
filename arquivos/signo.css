@@ -4,27 +4,28 @@ body {
     font-weight: bolder;
     background-image: url("/home/junior/Documentos/curso/Zodiaco-JR/Zodiaco/imagens/fundo.webp");
 }
-h2 {
-    margin: 0;
-}
-.ajuste{
-    display: flex;
-    justify-content: space-between;
-}
 .menu {
     list-style: none;
+    display: flex;
+    text-align: left;
 }
-.esquerda {
-    width: 550px;
-    padding:9px 20px;
+.simbolo {
+    float: left;
+    width: 30%;
 }
-.direita {
-    width: 550px;
-    padding:0 20px;
+.cavaleiro {
+    float: right;
+    width: 40%;
 }
-.centro {
-    width: 160px;
-    margin-top: 200px;
+.cavaleiro img{
+    margin-bottom: 10px;
+}
+.cavaleiro h3 {
+    margin-top: 0;
+}
+.informacao {
+    clear: both;
+    padding-left: 600px;
 }
 #rodape {
     clear: both;
